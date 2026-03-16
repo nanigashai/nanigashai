@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanigashai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in LLM Integrations, ML & Electronics
+- 🌱 I’m currently working on AI Agents in therapy sector
 
 <!---
 
