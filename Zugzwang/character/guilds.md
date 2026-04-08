@@ -1,70 +1,68 @@
 # Zugzwang — Guilds
 
-A collection of chess-themed guilds for the Zugzwang universe.
-
 ---
 
 ## Named Guilds
 
-### 1. The Zugzwang Brotherhood
-*"Every move is a burden."*
-Masters of attrition who force enemies into positions where any action only worsens their fate.
+### 1. The Tigers Guild
+*"Strike without hesitation."*
+Fierce front-line warriors known for explosive aggression. They never retreat — only advance.
 
-### 2. Order of En Passant
-*"We strike between the lines."*
-Elusive assassins who exploit brief windows of vulnerability that others don't even notice.
+### 2. The Reapers Guild
+*"All things end. We just hurry it along."*
+Silent executioners who specialize in eliminating high-value targets with cold precision.
 
-### 3. The Gambit Circle
-*"Give to gain."*
-Merchants of sacrifice — they trade blood and resources now for overwhelming advantage later.
+### 3. The Ravens Guild
+*"We see everything. We say nothing."*
+A guild of spies and informants who trade in secrets and operate entirely in the shadows.
 
-### 4. The Fianchetto
-*"Power lies along the diagonal."*
-Long-range strategists who control vast territories from fortified positions on the flanks.
+### 4. The Wolves Guild
+*"Alone we hunt. Together we devour."*
+Pack tacticians who overwhelm enemies through coordinated ambushes and relentless pursuit.
 
-### 5. The Zwischenzug
-*"Between your plans, we exist."*
-Cunning opportunists who insert unexpected strikes before opponents can complete their strategies.
+### 5. The Vipers Guild
+*"The wound you don't feel is the one that kills you."*
+Masters of poison, traps, and delayed strikes. Their damage is never immediate — always inevitable.
 
-### 6. The Perpetual League
-*"We never stop. Neither will you."*
-Relentless hunters who specialize in sustained pressure, wearing down their quarry without end.
+### 6. The Iron Guild
+*"We do not bend."*
+An unbreakable order of defenders and heavy fighters who hold the line no matter the cost.
 
-### 7. Fork Masters
-*"One blow, two wounds."*
-Warriors trained to attack multiple targets simultaneously, forcing impossible choices on foes.
+### 7. The Phantom Guild
+*"You cannot fight what you cannot see."*
+Ghosts of the battlefield — appearing, striking, and vanishing before the enemy can respond.
 
-### 8. The Pin & Skewer Alliance
-*"Alignment is everything."*
-Tacticians who exploit the relationship between pieces, immobilizing one to destroy another.
+### 8. The Ember Guild
+*"From ash, we rise. Into ash, you fall."*
+Pyromancers and demolitionists who leave nothing standing in their wake.
 
-### 9. The Endgame Collective
-*"The opening is noise. The endgame is truth."*
-Patient scholars who outlast all others, thriving when resources are scarce and precision is all.
+### 9. The Storm Guild
+*"We don't come. We arrive."*
+Lightning-fast cavalry and skirmishers who strike from all directions simultaneously.
 
-### 10. The Prophylaxis Order
-*"We stop threats before they become threats."*
-Guardians and analysts who dedicate their lives to anticipating and neutralizing danger.
+### 10. The Obsidian Guild
+*"Hard. Sharp. Unforgiving."*
+Elite mercenaries with no allegiance but coin. The most expensive — and the most reliable.
 
-### 11. The Tempo Brotherhood
-*"Time is the only real currency."*
-Speed-focused fighters who never waste a move, always gaining the initiative over their opponents.
+### 11. The Crimson Guild
+*"Our reputation is written in red."*
+Ruthless bounty hunters and duelists feared across every territory.
 
-### 12. The Opposition Clan
-*"Face us, and you have already lost ground."*
-Endgame specialists who master positional dominance through precise king maneuvering.
+### 12. The Void Guild
+*"Where we walk, hope follows — briefly."*
+A mysterious cult-like guild that erases evidence of their existence from every conflict.
 
-### 13. The Discovered Order
-*"The real threat was never the one you saw."*
-Illusionists and tacticians who reveal devastating attacks by simply stepping aside.
+### 13. The Serpent Guild
+*"Patience. Position. Strike."*
+Long-game strategists who coil around their enemies slowly before delivering the final blow.
 
-### 14. The Deflection Society
-*"We pull the strings that move the pieces."*
-Manipulators who lure key defenders away from critical posts with irresistible bait.
+### 14. The Titan Guild
+*"Size is a strategy."*
+Behemoths of war — heavy armor, heavy weapons, and an unstoppable forward march.
 
-### 15. The Clearance Guild
-*"Make way for what comes next."*
-Vanguards who sacrifice themselves to open paths for the forces that follow behind them.
+### 15. The Ghost Guild
+*"We were never here."*
+The most secretive guild. Members deny their existence. Enemies who encounter them rarely speak of it.
 
 ---
 
